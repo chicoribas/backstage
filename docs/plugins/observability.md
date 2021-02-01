@@ -19,3 +19,6 @@ app:
 ```
 
 Replace the tracking ID with your own.
+
+For information, 
+[learn more about Google Analytics](https://marketingplatform.google.com/about/analytics/).
