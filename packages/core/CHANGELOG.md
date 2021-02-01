@@ -1,5 +1,20 @@
 # @backstage/core
 
+## 0.6.0
+
+### Minor Changes
+
+- 21e624ba9: Closes #3556
+  The scroll bar of collapsed sidebar is now hidden without full screen.
+
+  ![image](https://user-images.githubusercontent.com/46953622/105390193-0bfd0080-5c19-11eb-8e86-2161bbe6e8d9.png)
+
+### Patch Changes
+
+- 12ece98cd: Add className to the SidebarItem
+- da9f53c60: Add a `prop` union for `SignInPage` that allows it to be used for just a single provider, with inline errors, and optionally with automatic sign-in.
+- 32c95605f: Fix check that determines whether popup was closed or the messaging was misconfigured.
+
 ## 0.5.0
 
 ### Minor Changes

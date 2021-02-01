@@ -1,5 +1,28 @@
 # @backstage/plugin-catalog
 
+## 0.3.0
+
+### Minor Changes
+
+- 019fe39a0: `@backstage/plugin-catalog` stopped exporting hooks and helpers for other
+  plugins. They are migrated to `@backstage/plugin-catalog-react`.
+  Change both your dependencies and imports to the new package.
+
+### Patch Changes
+
+- Updated dependencies [12ece98cd]
+- Updated dependencies [6e612ce25]
+- Updated dependencies [025e122c3]
+- Updated dependencies [21e624ba9]
+- Updated dependencies [da9f53c60]
+- Updated dependencies [32c95605f]
+- Updated dependencies [7881f2117]
+- Updated dependencies [019fe39a0]
+  - @backstage/core@0.6.0
+  - @backstage/catalog-model@0.7.1
+  - @backstage/plugin-scaffolder@0.4.2
+  - @backstage/plugin-catalog-react@0.0.2
+
 ## 0.2.14
 
 ### Patch Changes

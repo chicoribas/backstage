@@ -1,5 +1,18 @@
 # @backstage/techdocs-common
 
+## 0.3.7
+
+### Patch Changes
+
+- c777df180: 1. Added option to use Azure Blob Storage as a choice to store the static generated files for TechDocs.
+- f0320190d: dir preparer will use URL Reader in its implementation.
+- Updated dependencies [6e612ce25]
+- Updated dependencies [025e122c3]
+- Updated dependencies [064c513e1]
+- Updated dependencies [7881f2117]
+  - @backstage/catalog-model@0.7.1
+  - @backstage/integration@0.3.2
+
 ## 0.3.6
 
 ### Patch Changes

@@ -1,5 +1,15 @@
 # @backstage/plugin-catalog-backend
 
+## 0.5.6
+
+### Patch Changes
+
+- 24e47ef1e: Throw `NotAllowedError` when registering locations with entities of disallowed kinds
+- Updated dependencies [6e612ce25]
+- Updated dependencies [025e122c3]
+- Updated dependencies [7881f2117]
+  - @backstage/catalog-model@0.7.1
+
 ## 0.5.5
 
 ### Patch Changes

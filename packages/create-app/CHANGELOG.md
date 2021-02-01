@@ -1,5 +1,54 @@
 # @backstage/create-app
 
+## 1.0.0
+
+### Minor Changes
+
+- 019fe39a0: `@backstage/plugin-catalog` stopped exporting hooks and helpers for other
+  plugins. They are migrated to `@backstage/plugin-catalog-react`.
+  Change both your dependencies and imports to the new package.
+
+### Patch Changes
+
+- Updated dependencies [ceef4dd89]
+- Updated dependencies [c777df180]
+- Updated dependencies [398e1f83e]
+- Updated dependencies [12ece98cd]
+- Updated dependencies [6e612ce25]
+- Updated dependencies [a26668913]
+- Updated dependencies [025e122c3]
+- Updated dependencies [e9aab60c7]
+- Updated dependencies [21e624ba9]
+- Updated dependencies [e9aab60c7]
+- Updated dependencies [da9f53c60]
+- Updated dependencies [a08c4b0b0]
+- Updated dependencies [24e47ef1e]
+- Updated dependencies [90c8f20b9]
+- Updated dependencies [32c95605f]
+- Updated dependencies [7881f2117]
+- Updated dependencies [019fe39a0]
+- Updated dependencies [cdea0baf1]
+- Updated dependencies [019fe39a0]
+  - @backstage/plugin-catalog-import@0.3.7
+  - @backstage/plugin-techdocs-backend@0.5.5
+  - @backstage/cli@0.5.1
+  - @backstage/core@0.6.0
+  - @backstage/catalog-model@0.7.1
+  - @backstage/plugin-scaffolder-backend@0.6.0
+  - @backstage/plugin-app-backend@0.3.6
+  - @backstage/plugin-catalog-backend@0.5.6
+  - @backstage/plugin-tech-radar@0.3.4
+  - @backstage/plugin-api-docs@0.4.4
+  - @backstage/plugin-circleci@0.2.7
+  - @backstage/plugin-github-actions@0.3.1
+  - @backstage/plugin-lighthouse@0.2.9
+  - @backstage/plugin-scaffolder@0.4.2
+  - @backstage/plugin-search@0.2.7
+  - @backstage/plugin-techdocs@0.5.5
+  - @backstage/plugin-catalog@0.3.0
+  - @backstage/plugin-explore@0.2.4
+  - @backstage/plugin-user-settings@0.2.5
+
 ## 0.3.7
 
 ### Patch Changes
