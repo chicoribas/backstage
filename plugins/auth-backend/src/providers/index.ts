@@ -14,6 +14,7 @@
  * limitations under the License.
  */
 
+export * from './microsoft';
 export * from './google';
 export { factories as defaultAuthProviderFactories } from './factories';
 
